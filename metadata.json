@@ -1,0 +1,9 @@
+{
+  "name": "Remix: Copy of mega prontoario completo exames, transcripção, escalas -- EM EDIÇÃO V8",
+  "description": "Sistema avançado de gestão de consultório médico com foco em organização de agenda, controle financeiro, checklists de marketing e gerador de prontuários inteligentes com Gemini API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
